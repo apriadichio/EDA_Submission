@@ -6,4 +6,12 @@
 - pip install -r requirements.txt
 
 ## setup environment
+- mkdir EDA_Submission
+- cd EDA_submission
+- pipenv install
+- pipenv shell
+- pip install -r requirements.txt
+
+## Run Streamlit App
+- streamlit run app.py
 
