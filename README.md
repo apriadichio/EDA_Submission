@@ -6,8 +6,8 @@
 - pip install -r requirements.txt
 
 ## setup environment
-- mkdir EDA_Submission
-- cd EDA_submission
+- mkdir Project_EDA
+- cd Project_EDA
 - pipenv install
 - pipenv shell
 - pip install -r requirements.txt
